@@ -33,6 +33,8 @@ Scroll down or [click here](https://github.com/AvishekGhost?tab=repositories) to
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab0999&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br/>
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=AvishekGhost&show_icons=true&&hide_border=true&title_color=red&icon_color=red)
+ -->
 
 
