@@ -14,7 +14,7 @@ Scroll down or [click here](https://github.com/AvishekGhost?tab=repositories) to
 ## Connect with me
 
 <p>
-<a href="https://www.linkedin.com/in/avishekghost/">
+<a href="https://www.linkedin.com/in/avishek-mondal53/">
   <img align="left" alt="Avishek's LinkedIn" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://facebook.com/avishek.mondal53/">
