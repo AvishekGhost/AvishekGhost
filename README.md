@@ -20,7 +20,7 @@ Scroll down or [click here](https://github.com/AvishekGhost?tab=repositories) to
 <a href="https://facebook.com/avishek.mondal53/">
   <img align="left" alt="Avishek's Facebook" width="50px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
-<a href="https://www.instagram.com/avishek.mondal53/">
+<a href="https://www.instagram.com/_avishekmondal_/">
   <img align="left" alt="Avishek's Instagram" width="50px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 </p>
